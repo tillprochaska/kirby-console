@@ -3,6 +3,7 @@
   "description": "Define custom CLI commands for common tasks in your Kirby 3 project.",
   "license": "MIT",
   "require": {
+    "php": ">=8.1",
     "symfony/console": "^5.4",
     "getkirby/cms": "^3.6"
   },
